@@ -27,14 +27,14 @@ mongoose.set('strictQuery', true);
 
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "94774516277";   // You can Change this number //
+  gg = "25670994677";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://ThatOneGirlWithBigBootyAndBoobs2023:SendMeUrBoobsPic4535@cluster2023.bblquhi.mongodb.net/?retryWrites=true&w=majority"; // paste your own MongoDB url..
+global.mongodb = process.env.MONGODB || mongodb+srv://micgru2:<JYNA9xWdOENBnTgr>@cluster0.cmdaxu5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0; // paste your own MongoDB url..
 global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || ".";
 global.tenorApiKey =
