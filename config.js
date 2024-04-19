@@ -34,11 +34,11 @@ if (!gg) {
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://ThatOneGirlWithBigBootyAndBoobs2023:SendMeUrBoobsPic4535@cluster2023.bblquhi.mongodb.net/?retryWrites=true&w=majority"; // paste your own MongoDB url..
+global.mongodb = process.env.MONGODB || "mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority"; // paste your own MongoDB url..
 global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || ".";
 global.tenorApiKey =
-  process.env.TENOR_API_KEY || "AIzaSyCAYZ930Rq1EFiRNRJuSeGGrKljCnOb8-U"; // paste Your own Api Key..
+  process.env.TENOR_API_KEY || "AIzaSyBGoc5yF42ftL-YNLT8HHBOfIveYpZ_Pa4"; // paste Your own Api Key..
 global.packname = process.env.PACKNAME || `👹 𝕐𝕒𝕜𝕒ᵐᵈ`;
 global.author = process.env.AUTHOR || "by: 𝖄𝖆𝖐𝖆𝖘𝖍𝖎";
 global.port = process.env.PORT || "8000";
